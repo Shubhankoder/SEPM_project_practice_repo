@@ -6,7 +6,7 @@
 2. Clone the forked repo to your local machine using git clone command.
    - **$ git clone https://github.com/harishankarpv/SEPM_project_practice_repo.git**
 
-3. cd into the cloned folder and do the followng. 
+3. cd into the cloned folder (most important)
 
 4. Do the following in the terminal
     - **$ git remote -v**
