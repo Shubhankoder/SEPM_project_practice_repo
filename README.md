@@ -1,4 +1,4 @@
-# README
+# Hands on GIT and GITHUB workflow practice.
 ### Follow the instructions
 
 1. **Fork** the repo to your account.
